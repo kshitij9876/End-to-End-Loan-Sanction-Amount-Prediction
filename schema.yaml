@@ -1,0 +1,12 @@
+COLUMNS:
+  Current_Loan_Expenses: float64
+  Property_Age: float64
+  Loan_Amount_Request: float64
+  Credit_Score: float64
+  Property_Price: float64
+  Income_USD: float64
+
+
+TARGET_COLUMN:
+  name: Loan_Sanction_Amount
+  
