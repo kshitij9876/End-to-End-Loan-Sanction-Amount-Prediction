@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kshit/OneDrive/Documents/End-to-end-Machine-Learning-Project-with-MLflow-main/mlruns/0/a7aff57923284b99bd3fcb7545627a19/artifacts
+end_time: 1698779502086
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7aff57923284b99bd3fcb7545627a19
+run_name: aged-mouse-560
+run_uuid: a7aff57923284b99bd3fcb7545627a19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698779491281
+status: 3
+tags: []
+user_id: Kshitij
