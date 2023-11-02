@@ -60,6 +60,3 @@ if __name__ == "__main__":
 #docker stop dcd96d7d79b1
 #docker images
 #docker image rm -f loan-app
-#docker build -t kumarkshitij152/loan-app .
-#docker images
-#docker push kumarkshitij152/loan-app:latest
