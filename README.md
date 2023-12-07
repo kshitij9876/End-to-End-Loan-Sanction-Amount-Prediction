@@ -8,6 +8,7 @@ Steps:
 4. Feature Selection
 5. Model Training and Evaluation
 6. Comparison
+7. Docker Containerization
 
 ## Workflows
 
